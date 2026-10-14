@@ -1,0 +1,216 @@
+{
+  "market_basket_rules": [
+    {
+      "antecedent": "GREEN REGENCY TEACUP AND SAUCER",
+      "consequent": "ROSES REGENCY TEACUP AND SAUCER",
+      "co_purchase_count": 448,
+      "confidence": 0.757,
+      "support": 0.0448
+    },
+    {
+      "antecedent": "JUMBO BAG PINK POLKADOT",
+      "consequent": "JUMBO BAG RED RETROSPOT",
+      "co_purchase_count": 442,
+      "confidence": 0.68,
+      "support": 0.0442
+    },
+    {
+      "antecedent": "JUMBO BAG RED RETROSPOT",
+      "consequent": "JUMBO STORAGE BAG SUKI",
+      "co_purchase_count": 392,
+      "confidence": 0.369,
+      "support": 0.0392
+    },
+    {
+      "antecedent": "JUMBO BAG RED RETROSPOT",
+      "consequent": "JUMBO SHOPPER VINTAGE RED PAISLEY",
+      "co_purchase_count": 372,
+      "confidence": 0.35,
+      "support": 0.0372
+    },
+    {
+      "antecedent": "JUMBO  BAG BAROQUE BLACK WHITE",
+      "consequent": "JUMBO BAG RED RETROSPOT",
+      "co_purchase_count": 330,
+      "confidence": 0.637,
+      "support": 0.033
+    },
+    {
+      "antecedent": "GREEN REGENCY TEACUP AND SAUCER",
+      "consequent": "PINK REGENCY TEACUP AND SAUCER",
+      "co_purchase_count": 325,
+      "confidence": 0.549,
+      "support": 0.0325
+    },
+    {
+      "antecedent": "DOTCOM POSTAGE",
+      "consequent": "JUMBO BAG RED RETROSPOT",
+      "co_purchase_count": 312,
+      "confidence": 0.677,
+      "support": 0.0312
+    },
+    {
+      "antecedent": "JUMBO SHOPPER VINTAGE RED PAISLEY",
+      "consequent": "JUMBO STORAGE BAG SUKI",
+      "co_purchase_count": 309,
+      "confidence": 0.489,
+      "support": 0.0309
+    },
+    {
+      "antecedent": "PINK REGENCY TEACUP AND SAUCER",
+      "consequent": "ROSES REGENCY TEACUP AND SAUCER",
+      "co_purchase_count": 309,
+      "confidence": 0.788,
+      "support": 0.0309
+    },
+    {
+      "antecedent": "LUNCH BAG  BLACK SKULL.",
+      "consequent": "LUNCH BAG RED RETROSPOT",
+      "co_purchase_count": 305,
+      "confidence": 0.506,
+      "support": 0.0305
+    },
+    {
+      "antecedent": "LUNCH BAG PINK POLKADOT",
+      "consequent": "LUNCH BAG RED RETROSPOT",
+      "co_purchase_count": 303,
+      "confidence": 0.553,
+      "support": 0.0303
+    },
+    {
+      "antecedent": "REGENCY CAKESTAND 3 TIER",
+      "consequent": "ROSES REGENCY TEACUP AND SAUCER",
+      "co_purchase_count": 303,
+      "confidence": 0.261,
+      "support": 0.0303
+    },
+    {
+      "antecedent": "HEART OF WICKER LARGE",
+      "consequent": "HEART OF WICKER SMALL",
+      "co_purchase_count": 302,
+      "confidence": 0.62,
+      "support": 0.0302
+    },
+    {
+      "antecedent": "GREEN REGENCY TEACUP AND SAUCER",
+      "consequent": "REGENCY CAKESTAND 3 TIER",
+      "co_purchase_count": 299,
+      "confidence": 0.505,
+      "support": 0.0299
+    },
+    {
+      "antecedent": "JUMBO BAG PINK POLKADOT",
+      "consequent": "JUMBO STORAGE BAG SUKI",
+      "co_purchase_count": 293,
+      "confidence": 0.451,
+      "support": 0.0293
+    },
+    {
+      "antecedent": "JUMBO BAG RED RETROSPOT",
+      "consequent": "LUNCH BAG RED RETROSPOT",
+      "co_purchase_count": 292,
+      "confidence": 0.275,
+      "support": 0.0292
+    },
+    {
+      "antecedent": "JUMBO BAG RED RETROSPOT",
+      "consequent": "JUMBO BAG WOODLAND ANIMALS",
+      "co_purchase_count": 290,
+      "confidence": 0.273,
+      "support": 0.029
+    },
+    {
+      "antecedent": "LUNCH BAG CARS BLUE",
+      "consequent": "LUNCH BAG RED RETROSPOT",
+      "co_purchase_count": 285,
+      "confidence": 0.508,
+      "support": 0.0285
+    },
+    {
+      "antecedent": "60 TEATIME FAIRY CAKE CASES",
+      "consequent": "PACK OF 72 RETROSPOT CAKE CASES",
+      "co_purchase_count": 283,
+      "confidence": 0.585,
+      "support": 0.0283
+    },
+    {
+      "antecedent": "JUMBO BAG RED RETROSPOT",
+      "consequent": "JUMBO BAG STRAWBERRY",
+      "co_purchase_count": 279,
+      "confidence": 0.262,
+      "support": 0.0279
+    },
+    {
+      "antecedent": "JUMBO BAG PINK VINTAGE PAISLEY",
+      "consequent": "JUMBO BAG RED RETROSPOT",
+      "co_purchase_count": 275,
+      "confidence": 0.589,
+      "support": 0.0275
+    },
+    {
+      "antecedent": "LUNCH BAG RED RETROSPOT",
+      "consequent": "LUNCH BAG SPACEBOY DESIGN",
+      "co_purchase_count": 272,
+      "confidence": 0.329,
+      "support": 0.0272
+    },
+    {
+      "antecedent": "JUMBO BAG WOODLAND ANIMALS",
+      "consequent": "JUMBO STORAGE BAG SUKI",
+      "co_purchase_count": 271,
+      "confidence": 0.579,
+      "support": 0.0271
+    },
+    {
+      "antecedent": "DOLLY GIRL LUNCH BOX",
+      "consequent": "SPACEBOY LUNCH BOX",
+      "co_purchase_count": 268,
+      "confidence": 0.606,
+      "support": 0.0268
+    },
+    {
+      "antecedent": "SET OF 3 CAKE TINS PANTRY DESIGN",
+      "consequent": "SET OF 6 SPICE TINS PANTRY DESIGN",
+      "co_purchase_count": 268,
+      "confidence": 0.383,
+      "support": 0.0268
+    },
+    {
+      "antecedent": "JUMBO BAG PINK POLKADOT",
+      "consequent": "JUMBO SHOPPER VINTAGE RED PAISLEY",
+      "co_purchase_count": 267,
+      "confidence": 0.411,
+      "support": 0.0267
+    },
+    {
+      "antecedent": "JAM MAKING SET PRINTED",
+      "consequent": "JAM MAKING SET WITH JARS",
+      "co_purchase_count": 266,
+      "confidence": 0.418,
+      "support": 0.0266
+    },
+    {
+      "antecedent": "LUNCH BAG  BLACK SKULL.",
+      "consequent": "LUNCH BAG PINK POLKADOT",
+      "co_purchase_count": 266,
+      "confidence": 0.441,
+      "support": 0.0266
+    },
+    {
+      "antecedent": "LUNCH BAG RED RETROSPOT",
+      "consequent": "LUNCH BAG WOODLAND",
+      "co_purchase_count": 265,
+      "confidence": 0.32,
+      "support": 0.0265
+    },
+    {
+      "antecedent": "PARTY BUNTING",
+      "consequent": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "co_purchase_count": 259,
+      "confidence": 0.252,
+      "support": 0.0259
+    }
+  ],
+  "total_baskets_mined": 10000,
+  "total_co_occurrences_found": 2566501
+}

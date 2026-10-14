@@ -1,0 +1,55 @@
+{
+  "summary": {
+    "total_events_processed": 30000,
+    "unique_visitors_bloomfilter": 406,
+    "actual_unique_visitors": 406,
+    "duplicate_events_filtered": 29594,
+    "bot_threats_blocked": 4452,
+    "bloom_filter_size_bits": 20000,
+    "estimated_fp_rate_pct": 0.0037
+  },
+  "stream_checkpoints": [
+    {
+      "processed_events": 1,
+      "unique_visitors": 1,
+      "duplicates_detected": 0,
+      "bot_threats_blocked": 0,
+      "fp_rate": 0.0
+    },
+    {
+      "processed_events": 5001,
+      "unique_visitors": 406,
+      "duplicates_detected": 4595,
+      "bot_threats_blocked": 754,
+      "fp_rate": 0.0037
+    },
+    {
+      "processed_events": 10001,
+      "unique_visitors": 406,
+      "duplicates_detected": 9595,
+      "bot_threats_blocked": 1474,
+      "fp_rate": 0.0037
+    },
+    {
+      "processed_events": 15001,
+      "unique_visitors": 406,
+      "duplicates_detected": 14595,
+      "bot_threats_blocked": 2176,
+      "fp_rate": 0.0037
+    },
+    {
+      "processed_events": 20001,
+      "unique_visitors": 406,
+      "duplicates_detected": 19595,
+      "bot_threats_blocked": 2937,
+      "fp_rate": 0.0037
+    },
+    {
+      "processed_events": 25001,
+      "unique_visitors": 406,
+      "duplicates_detected": 24595,
+      "bot_threats_blocked": 3699,
+      "fp_rate": 0.0037
+    }
+  ]
+}

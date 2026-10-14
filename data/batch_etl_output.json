@@ -1,0 +1,428 @@
+{
+  "country_analytics": [
+    {
+      "Country": "United Kingdom",
+      "TotalOrders": 1492,
+      "TotalRevenue": 594869.96,
+      "UniqueCustomers": 893
+    },
+    {
+      "Country": "Germany",
+      "TotalOrders": 34,
+      "TotalRevenue": 19217.27,
+      "UniqueCustomers": 21
+    },
+    {
+      "Country": "France",
+      "TotalOrders": 28,
+      "TotalRevenue": 12985.6,
+      "UniqueCustomers": 19
+    },
+    {
+      "Country": "EIRE",
+      "TotalOrders": 15,
+      "TotalRevenue": 8813.88,
+      "UniqueCustomers": 3
+    },
+    {
+      "Country": "Netherlands",
+      "TotalOrders": 3,
+      "TotalRevenue": 8784.48,
+      "UniqueCustomers": 2
+    },
+    {
+      "Country": "Australia",
+      "TotalOrders": 5,
+      "TotalRevenue": 8187.23,
+      "UniqueCustomers": 3
+    },
+    {
+      "Country": "Japan",
+      "TotalOrders": 3,
+      "TotalRevenue": 7705.07,
+      "UniqueCustomers": 3
+    },
+    {
+      "Country": "Sweden",
+      "TotalOrders": 3,
+      "TotalRevenue": 4381.86,
+      "UniqueCustomers": 2
+    },
+    {
+      "Country": "Norway",
+      "TotalOrders": 2,
+      "TotalRevenue": 3787.12,
+      "UniqueCustomers": 1
+    },
+    {
+      "Country": "Spain",
+      "TotalOrders": 5,
+      "TotalRevenue": 2982.4,
+      "UniqueCustomers": 5
+    }
+  ],
+  "top_products": [
+    {
+      "StockCode": "22423",
+      "Description": "REGENCY CAKESTAND 3 TIER",
+      "TotalUnitsSold": 1807,
+      "TotalRevenue": 20432.85
+    },
+    {
+      "StockCode": "85123A",
+      "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "TotalUnitsSold": 4577,
+      "TotalRevenue": 12159.75
+    },
+    {
+      "StockCode": "79321",
+      "Description": "CHILLI LIGHTS",
+      "TotalUnitsSold": 2402,
+      "TotalRevenue": 10071.34
+    },
+    {
+      "StockCode": "82484",
+      "Description": "WOOD BLACK BOARD ANT WHITE FINISH",
+      "TotalUnitsSold": 1396,
+      "TotalRevenue": 7046.28
+    },
+    {
+      "StockCode": "21623",
+      "Description": "VINTAGE UNION JACK MEMOBOARD",
+      "TotalUnitsSold": 1063,
+      "TotalRevenue": 6978.29
+    },
+    {
+      "StockCode": "21137",
+      "Description": "BLACK RECORD COVER FRAME",
+      "TotalUnitsSold": 2015,
+      "TotalRevenue": 6852.09
+    },
+    {
+      "StockCode": "85099B",
+      "Description": "JUMBO BAG RED RETROSPOT",
+      "TotalUnitsSold": 3426,
+      "TotalRevenue": 5930.7
+    },
+    {
+      "StockCode": "22189",
+      "Description": "CREAM HEART CARD HOLDER",
+      "TotalUnitsSold": 2306,
+      "TotalRevenue": 5741.98
+    },
+    {
+      "StockCode": "POST",
+      "Description": "POSTAGE",
+      "TotalUnitsSold": 266,
+      "TotalRevenue": 5428.0
+    },
+    {
+      "StockCode": "22188",
+      "Description": "BLACK HEART CARD HOLDER",
+      "TotalUnitsSold": 2157,
+      "TotalRevenue": 5173.59
+    }
+  ],
+  "rfm_segmentation": [
+    {
+      "customer_id": "17850",
+      "frequency": 34,
+      "monetary": 5391.21,
+      "segment": "VIP Champions"
+    },
+    {
+      "customer_id": "13047",
+      "frequency": 3,
+      "monetary": 366.63,
+      "segment": "Potential Loyalists"
+    },
+    {
+      "customer_id": "12583",
+      "frequency": 2,
+      "monetary": 1586.02,
+      "segment": "Potential Loyalists"
+    },
+    {
+      "customer_id": "13748",
+      "frequency": 1,
+      "monetary": 204.0,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "15100",
+      "frequency": 2,
+      "monetary": 700.8,
+      "segment": "Potential Loyalists"
+    },
+    {
+      "customer_id": "15291",
+      "frequency": 2,
+      "monetary": 648.9,
+      "segment": "Potential Loyalists"
+    },
+    {
+      "customer_id": "14688",
+      "frequency": 1,
+      "monetary": 444.98,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "17809",
+      "frequency": 3,
+      "monetary": 1251.5,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "15311",
+      "frequency": 11,
+      "monetary": 3963.47,
+      "segment": "VIP Champions"
+    },
+    {
+      "customer_id": "16098",
+      "frequency": 1,
+      "monetary": 430.6,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "18074",
+      "frequency": 1,
+      "monetary": 489.6,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "17420",
+      "frequency": 1,
+      "monetary": 130.85,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "16029",
+      "frequency": 7,
+      "monetary": 13202.52,
+      "segment": "VIP Champions"
+    },
+    {
+      "customer_id": "16250",
+      "frequency": 1,
+      "monetary": 226.14,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "12431",
+      "frequency": 2,
+      "monetary": 773.95,
+      "segment": "Potential Loyalists"
+    },
+    {
+      "customer_id": "17511",
+      "frequency": 4,
+      "monetary": 10573.22,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "13705",
+      "frequency": 1,
+      "monetary": 318.14,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "13747",
+      "frequency": 1,
+      "monetary": 79.6,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "13408",
+      "frequency": 6,
+      "monetary": 3335.4,
+      "segment": "VIP Champions"
+    },
+    {
+      "customer_id": "13767",
+      "frequency": 7,
+      "monetary": 2609.76,
+      "segment": "VIP Champions"
+    },
+    {
+      "customer_id": "17924",
+      "frequency": 1,
+      "monetary": 279.0,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "13448",
+      "frequency": 3,
+      "monetary": 829.54,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "15862",
+      "frequency": 1,
+      "monetary": 354.23,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "15513",
+      "frequency": 2,
+      "monetary": 1313.5,
+      "segment": "Potential Loyalists"
+    },
+    {
+      "customer_id": "12791",
+      "frequency": 1,
+      "monetary": 192.6,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "16218",
+      "frequency": 1,
+      "monetary": 471.3,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "14045",
+      "frequency": 3,
+      "monetary": 1251.75,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "14307",
+      "frequency": 1,
+      "monetary": 783.11,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "17908",
+      "frequency": 1,
+      "monetary": 243.28,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "17920",
+      "frequency": 2,
+      "monetary": 735.91,
+      "segment": "Potential Loyalists"
+    },
+    {
+      "customer_id": "12838",
+      "frequency": 1,
+      "monetary": 390.79,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "13255",
+      "frequency": 1,
+      "monetary": 225.7,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "16583",
+      "frequency": 1,
+      "monetary": 233.45,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "18085",
+      "frequency": 1,
+      "monetary": 303.9,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "13758",
+      "frequency": 3,
+      "monetary": 1141.25,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "13694",
+      "frequency": 3,
+      "monetary": 4076.64,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "15983",
+      "frequency": 3,
+      "monetary": 1148.27,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "14849",
+      "frequency": 5,
+      "monetary": 566.89,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "17968",
+      "frequency": 1,
+      "monetary": 277.35,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "16210",
+      "frequency": 4,
+      "monetary": 7000.64,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "17897",
+      "frequency": 2,
+      "monetary": 434.62,
+      "segment": "Potential Loyalists"
+    },
+    {
+      "customer_id": "17377",
+      "frequency": 3,
+      "monetary": 785.08,
+      "segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "16552",
+      "frequency": 1,
+      "monetary": 95.29,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "17181",
+      "frequency": 1,
+      "monetary": 155.52,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "17951",
+      "frequency": 2,
+      "monetary": 409.5,
+      "segment": "Potential Loyalists"
+    },
+    {
+      "customer_id": "14729",
+      "frequency": 1,
+      "monetary": 313.49,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "12748",
+      "frequency": 37,
+      "monetary": 4479.43,
+      "segment": "VIP Champions"
+    },
+    {
+      "customer_id": "15012",
+      "frequency": 1,
+      "monetary": 191.06,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "12868",
+      "frequency": 1,
+      "monetary": 203.3,
+      "segment": "At Risk / New"
+    },
+    {
+      "customer_id": "17572",
+      "frequency": 1,
+      "monetary": 70.8,
+      "segment": "At Risk / New"
+    }
+  ]
+}

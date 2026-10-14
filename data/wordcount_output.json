@@ -1,0 +1,252 @@
+[
+  {
+    "word": "fast",
+    "sentiment": "positive",
+    "count": 5943
+  },
+  {
+    "word": "great",
+    "sentiment": "positive",
+    "count": 3942
+  },
+  {
+    "word": "product",
+    "sentiment": "positive",
+    "count": 2082
+  },
+  {
+    "word": "build",
+    "sentiment": "positive",
+    "count": 2081
+  },
+  {
+    "word": "design",
+    "sentiment": "positive",
+    "count": 2081
+  },
+  {
+    "word": "love",
+    "sentiment": "positive",
+    "count": 2081
+  },
+  {
+    "word": "superb",
+    "sentiment": "positive",
+    "count": 2081
+  },
+  {
+    "word": "satisfied",
+    "sentiment": "positive",
+    "count": 1998
+  },
+  {
+    "word": "best",
+    "sentiment": "positive",
+    "count": 1998
+  },
+  {
+    "word": "ever",
+    "sentiment": "positive",
+    "count": 1998
+  },
+  {
+    "word": "performance",
+    "sentiment": "positive",
+    "count": 1998
+  },
+  {
+    "word": "purchase",
+    "sentiment": "positive",
+    "count": 1998
+  },
+  {
+    "word": "shipping",
+    "sentiment": "positive",
+    "count": 1987
+  },
+  {
+    "word": "money",
+    "sentiment": "positive",
+    "count": 1983
+  },
+  {
+    "word": "value",
+    "sentiment": "positive",
+    "count": 1983
+  },
+  {
+    "word": "durable",
+    "sentiment": "positive",
+    "count": 1983
+  },
+  {
+    "word": "fantastic",
+    "sentiment": "positive",
+    "count": 1980
+  },
+  {
+    "word": "dispatch",
+    "sentiment": "positive",
+    "count": 1980
+  },
+  {
+    "word": "sturdy",
+    "sentiment": "positive",
+    "count": 1980
+  },
+  {
+    "word": "stylish",
+    "sentiment": "positive",
+    "count": 1980
+  },
+  {
+    "word": "excellent",
+    "sentiment": "positive",
+    "count": 1975
+  },
+  {
+    "word": "delivery",
+    "sentiment": "positive",
+    "count": 1975
+  },
+  {
+    "word": "recommended",
+    "sentiment": "positive",
+    "count": 1975
+  },
+  {
+    "word": "highly",
+    "sentiment": "positive",
+    "count": 1975
+  },
+  {
+    "word": "customer",
+    "sentiment": "positive",
+    "count": 1959
+  },
+  {
+    "word": "service",
+    "sentiment": "positive",
+    "count": 1959
+  },
+  {
+    "word": "amazing",
+    "sentiment": "positive",
+    "count": 1959
+  },
+  {
+    "word": "poor",
+    "sentiment": "negative",
+    "count": 1482
+  },
+  {
+    "word": "reasonable",
+    "sentiment": "neutral",
+    "count": 1272
+  },
+  {
+    "word": "delivery",
+    "sentiment": "neutral",
+    "count": 1223
+  },
+  {
+    "word": "better",
+    "sentiment": "neutral",
+    "count": 1223
+  },
+  {
+    "word": "worst",
+    "sentiment": "negative",
+    "count": 791
+  },
+  {
+    "word": "requested",
+    "sentiment": "negative",
+    "count": 791
+  },
+  {
+    "word": "return",
+    "sentiment": "negative",
+    "count": 791
+  },
+  {
+    "word": "product",
+    "sentiment": "negative",
+    "count": 791
+  },
+  {
+    "word": "functional",
+    "sentiment": "negative",
+    "count": 791
+  },
+  {
+    "word": "ever",
+    "sentiment": "negative",
+    "count": 791
+  },
+  {
+    "word": "complete",
+    "sentiment": "negative",
+    "count": 761
+  },
+  {
+    "word": "support",
+    "sentiment": "negative",
+    "count": 761
+  },
+  {
+    "word": "terrible",
+    "sentiment": "negative",
+    "count": 761
+  },
+  {
+    "word": "defective",
+    "sentiment": "negative",
+    "count": 761
+  },
+  {
+    "word": "waste",
+    "sentiment": "negative",
+    "count": 761
+  },
+  {
+    "word": "customer",
+    "sentiment": "negative",
+    "count": 761
+  },
+  {
+    "word": "material",
+    "sentiment": "negative",
+    "count": 755
+  },
+  {
+    "word": "damaged",
+    "sentiment": "negative",
+    "count": 755
+  },
+  {
+    "word": "experience",
+    "sentiment": "negative",
+    "count": 755
+  },
+  {
+    "word": "delay",
+    "sentiment": "negative",
+    "count": 755
+  },
+  {
+    "word": "package",
+    "sentiment": "negative",
+    "count": 755
+  },
+  {
+    "word": "delivery",
+    "sentiment": "negative",
+    "count": 755
+  },
+  {
+    "word": "arrival",
+    "sentiment": "negative",
+    "count": 727
+  }
+]
